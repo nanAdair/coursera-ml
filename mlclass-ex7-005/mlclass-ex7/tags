@@ -1,0 +1,41 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+base64encode	submit.m	/^function y = base64encode(x, eol)$/;"	f
+basicPrompt	submit.m	/^function [login password] = basicPrompt()$/;"	f
+bitadd	submit.m	/^function ret = bitadd(iA, iB)$/;"	f
+bitrotate	submit.m	/^function ret = bitrotate(iA, places)$/;"	f
+challengeResponse	submit.m	/^function [str] = challengeResponse(email, passwd, challenge)$/;"	f
+challenge_url	submit.m	/^function url = challenge_url()$/;"	f
+computeCentroids	computeCentroids.m	/^function centroids = computeCentroids(X, idx, K)$/;"	f
+displayData	displayData.m	/^function [h, display_array] = displayData(X, example_width)$/;"	f
+drawLine	drawLine.m	/^function drawLine(p1, p2, varargin)$/;"	f
+featureNormalize	featureNormalize.m	/^function [X_norm, mu, sigma] = featureNormalize(X)$/;"	f
+findClosestCentroids	findClosestCentroids.m	/^function idx = findClosestCentroids(X, centroids)$/;"	f
+getChallenge	submit.m	/^function [email,ch,signature,auxstring] = getChallenge(email, part)$/;"	f
+homework_id	submit.m	/^function id = homework_id() $/;"	f
+isValidPartId	submit.m	/^function ret = isValidPartId(partId)$/;"	f
+kMeansInitCentroids	kMeansInitCentroids.m	/^function centroids = kMeansInitCentroids(X, K)$/;"	f
+loginPrompt	submit.m	/^function [login password] = loginPrompt()$/;"	f
+output	submit.m	/^function out = output(partId, auxstring)$/;"	f
+pca	pca.m	/^function [U, S] = pca(X)$/;"	f
+plotDataPoints	plotDataPoints.m	/^function plotDataPoints(X, idx, K)$/;"	f
+plotProgresskMeans	plotProgresskMeans.m	/^function plotProgresskMeans(X, centroids, previous, idx, K, i)$/;"	f
+projectData	projectData.m	/^function Z = projectData(X, U, K)$/;"	f
+promptPart	submit.m	/^function partId = promptPart()$/;"	f
+quickLogin	submit.m	/^function [login password] = quickLogin(login,password)$/;"	f
+recoverData	recoverData.m	/^function X_rec = recoverData(Z, U, K)$/;"	f
+runkMeans	runkMeans.m	/^function [centroids, idx] = runkMeans(X, initial_centroids, ...$/;"	f
+sha1	submit.m	/^function hash = sha1(str)$/;"	f
+site_url	submit.m	/^function url = site_url()$/;"	f
+source	submit.m	/^function src = source(partId)$/;"	f
+sources	submit.m	/^function srcs = sources()$/;"	f
+submit	submit.m	/^function submit(partId, webSubmit)$/;"	f
+submitSolution	submit.m	/^function [result, str] = submitSolution(email, ch_resp, part, output, ...$/;"	f
+submitSolutionWeb	submit.m	/^function [result, str] = submitSolutionWeb(email, part, output, source)$/;"	f
+submitWeb	submitWeb.m	/^function submitWeb(partId)$/;"	f
+submit_url	submit.m	/^function url = submit_url()$/;"	f
+validParts	submit.m	/^function [partNames] = validParts()$/;"	f
